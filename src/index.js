@@ -47,6 +47,10 @@ const pizzaData = [
   },
 ];
 
+// "homepage": "https://aykinsancakli.github.io/pizza-menu",
+//     "predeploy": "npm run build",
+// "deploy": "gh-pages -d build",
+
 function App() {
   return (
     <div className="container">
